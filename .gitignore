@@ -5,3 +5,4 @@ docker-compose.yml
 entrypoint.sh
 /nginx
 nginx.conf
+production.yml
